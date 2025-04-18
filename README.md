@@ -18,6 +18,8 @@
 
 <h2>Deployment and Configuration</h2>
 
+Windows and Linux VM running within the same resource group.
+
 ![Screenshot 2025-02-21 155117](https://github.com/user-attachments/assets/d3e287a6-6f77-44fe-9e91-c6dc3fff17ed)
 
 ![Screenshot 2025-02-21 155242](https://github.com/user-attachments/assets/85accc82-0313-43a5-aac3-deae3146a292)
