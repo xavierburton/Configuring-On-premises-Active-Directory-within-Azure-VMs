@@ -24,6 +24,7 @@ Microsoft Azure Windows and Linux VM running within the same resource group.
 
 ![Screenshot 2025-02-21 155242](https://github.com/user-attachments/assets/85accc82-0313-43a5-aac3-deae3146a292)
 
+
 Logging into Remote Desktop/Remote Desktop Connection.
 
 ![Screenshot 2025-02-25 093216](https://github.com/user-attachments/assets/eecd0be0-5aa9-47b4-afb0-55b5947de8ba)
