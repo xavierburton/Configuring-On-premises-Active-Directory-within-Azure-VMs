@@ -23,5 +23,5 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows 10 (21H2)
 
 <h2>Deployment and Configuration Steps</h2>
-![Screenshot 2025-02-21 155117](https://github.com/user-attachments/assets/0e4cd233-9396-4805-925e-7d4311d4f6d0)
-![Screenshot 2025-02-21 155242](https://github.com/user-attachments/assets/9a8a699f-cf93-48cd-9460-823b05006417)
+
+![Screenshot 2025-02-21 155117](https://github.com/user-attachments/assets/d3e287a6-6f77-44fe-9e91-c6dc3fff17ed)
