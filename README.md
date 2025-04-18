@@ -37,4 +37,9 @@ VPNS / VPN Within VM
 ![Screenshot 2025-02-23 082620](https://github.com/user-attachments/assets/fe02dbe3-2956-4abb-9338-055947cad34c)
 
 
+Running scripts on Powershell.
+
+![IMG_2580](https://github.com/user-attachments/assets/458b844c-a49e-40ec-9bc2-cc25fda7bedf)
+
+
 
