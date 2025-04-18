@@ -24,3 +24,10 @@ Windows and Linux VM running within the same resource group.
 
 ![Screenshot 2025-02-21 155242](https://github.com/user-attachments/assets/85accc82-0313-43a5-aac3-deae3146a292)
 
+Remote Desktop Connection.
+
+![Screenshot 2025-02-25 093216](https://github.com/user-attachments/assets/eecd0be0-5aa9-47b4-afb0-55b5947de8ba)
+
+![Screenshot 2025-02-25 100713](https://github.com/user-attachments/assets/357ff7e4-da97-4fb3-8baf-f9fdc735d498)
+
+
