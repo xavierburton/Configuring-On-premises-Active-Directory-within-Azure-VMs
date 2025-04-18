@@ -9,7 +9,7 @@
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Active Directory Domain Services
-- VPNS/ VPNS Within VM
+- VPN/ VPN Within VM
 - PowerShell
 
 <h2>Operating Systems Used </h2>
