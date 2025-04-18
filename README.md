@@ -31,4 +31,9 @@ Logging into Remote Desktop/Remote Desktop Connection.
 
 ![Screenshot 2025-02-25 100713](https://github.com/user-attachments/assets/357ff7e4-da97-4fb3-8baf-f9fdc735d498)
 
+VPNS
+
+![Screenshot 2025-02-23 082620](https://github.com/user-attachments/assets/fe02dbe3-2956-4abb-9338-055947cad34c)
+
+
 
